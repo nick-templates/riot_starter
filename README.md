@@ -1,2 +1,2 @@
 # riot_starter
-A starter template for riot apps
+This repo is not completed and is in progress.
